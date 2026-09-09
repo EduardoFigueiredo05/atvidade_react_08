@@ -51,6 +51,9 @@ function App() {
           <button onClick={() => setActiveContentIndex(2)}>
             Related Resources
           </button>
+          <button onClick={() => setActiveContentIndex(3)}>
+            React vs. Vanilla
+          </button>
         </menu>
 
         <div id="tab-content">
